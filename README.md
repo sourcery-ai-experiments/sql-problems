@@ -39,6 +39,8 @@ I've only bother solving the hardest (free) problems, and I'll add some notes on
 > - https://datalemur.com/
 >
 > The platform uses PostgreSQL only (version 14.11 at the time of writing).
+>
+> There are only 8 free hard problems.
 
 ### Pros ✔️
 
@@ -62,8 +64,38 @@ Some of the recommended solutions could be better:
 
 I'm not sure about the premium hard questions, but based on the free ones, the problems are only moderately difficult -- I have to solve harder problems on a daily basis as an analytics engineer, so I don't think these are great preparation for a senior technical role.
 
-## Lost at SQL
+---
+
+## Analyst Builder
 
 > [!NOTE]
 >
-> https://lost-at-sql.therobinlord.com/
+> The problems are available at:
+>
+> - https://www.analystbuilder.com/
+>
+> The platform uses a mix of databases and languages.
+>
+> There are only 3 free hard problems, and 0 free very hard problems.
+
+### Pros ✔️
+
+The platform looks and feels really nice!
+
+Similar to DataLemur, the problem statements have sample data and expected results.
+
+Similar to DataLemur, the platform is easy to use, has a fast response time, and the solutions tab has some good alternative community solutions -- but an added bonus is that Analyst Builder has a video explanation, too!
+
+The PostgreSQL version that Analyst Builder uses is 16.1, two versions ahead of DataLemur.
+
+Correct solutions have a nice animation when you submit them 😄
+
+For the most part, the recommended solutions are good.
+
+### Cons ❌
+
+The "hard" problems are _waaay_ easier than the DataLemur ones; they're more like "medium" DataLemur ones.
+
+Hopefully the "very hard" problems are actually hard, but I can't say for sure.
+
+These questions are good for someone who's just starting out with SQL, but not for someone who's been working with SQL for a while.
