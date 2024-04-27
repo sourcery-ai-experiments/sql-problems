@@ -1,7 +1,7 @@
 ---
 services:
   postgres:
-    image: postgresql
+    image: postgres:latest
     container_name: PostgreSQL
     environment:
       POSTGRES_PASSWORD: Test@12345
