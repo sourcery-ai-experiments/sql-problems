@@ -30,7 +30,7 @@ I've only bother solving the hardest (free) problems, and I'll add some notes on
 
 ---
 
-## Data Lemur
+## DataLemur
 
 > [!NOTE]
 >
@@ -99,3 +99,17 @@ The "hard" problems are _waaay_ easier than the DataLemur ones; they're more lik
 Hopefully the "very hard" problems are actually hard, but I can't say for sure.
 
 These questions are good for someone who's just starting out with SQL, but not for someone who's been working with SQL for a while.
+
+---
+
+## DataExpert.io
+
+> [!NOTE]
+>
+> The problems are available at:
+>
+> - https://dataexpert.io/questions
+>
+> The platform uses Trino only.
+>
+> The platform is still a WIP, so I'll save the pros and cons for later.
