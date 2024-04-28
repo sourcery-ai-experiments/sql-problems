@@ -15,7 +15,7 @@
 
 Solutions to SQL problems.
 
-I've only bother solving the hardest (free) problems, and I'll add some notes on what I thought of the platform below.
+I've only bothered solving the hardest (free) problems, and I'll add some notes on what I thought of the platform below.
 
 > [!WARNING]
 >
