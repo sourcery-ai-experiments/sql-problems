@@ -1,9 +1,21 @@
 ---
 services:
-  postgres:
-    image: postgresql
-    container_name: PostgreSQL
+  analyst-builder:
+    image: postgres:16.1
+    container_name: AnalystBuilder
     environment:
-      POSTGRES_PASSWORD: Test@12345
+      POSTGRES_PASSWORD: postgres
       POSTGRES_USER: postgres
     ports: ["5432:5432"]
+  data-lemur:
+    image: postgres:14.11
+    container_name: DataLemur
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    ports: ["5433:5432"]
+  data-expert:
+    image: trinodb/trino:443
+    container_name: DataExpert
+    # username is `admin`, password is null
+    ports: ["8080:8080"]
